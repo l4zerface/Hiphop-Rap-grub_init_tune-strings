@@ -1,4 +1,4 @@
-Hiphop and rap inspired GRUB_INIT_TUNE strings. Wu-Tang. Code rules everything around you.
+Hiphop and rap inspired GRUB_INIT_TUNE strings. Wu-Tang. Code rules everything around us.
 
 Place the string into /etc/default/grub, use "grub-mkconfig" to regenerate your GRUB configuration file and reboot.
 
